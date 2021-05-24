@@ -24,7 +24,7 @@ What did you learn?
 ## Installation
 npm install, dot env setup, and the creation of a mysql database.
 ## Usage
-![employee-directory.jpg](assets/$employee-directory.jpg?raw=true)
+![employee-directory.jpg](assets/employee-directory.jpg?raw=true)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributing

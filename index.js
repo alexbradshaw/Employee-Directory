@@ -212,7 +212,10 @@ function addEmps() {
                         ])
                         .then(resp => {
                             for (let i = 0; i < roleArray.length; i++) {
-                                if (roleArray[i] === resp.role) {
+                                if(resp.role === 'None'){
+                                    var b = null
+                                }
+                                else if (roleArray[i] === resp.role) {
                                     var b = i + 1
                                 }
                             }
